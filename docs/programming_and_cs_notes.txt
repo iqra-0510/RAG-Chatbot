@@ -1,0 +1,25 @@
+Python and Programming Basics
+
+A variable is a named place in memory that stores a value. Python is dynamically typed, so you do not need to declare the type of a variable. A list is an ordered, changeable collection written inside square brackets, for example numbers = [1, 2, 3]. Lists allow duplicate values and can be accessed by index, starting from 0.
+
+A tuple is similar to a list but it is immutable, which means it cannot be changed after it is created. A dictionary stores data as key and value pairs, and values are found using their keys. A set stores unique values only.
+
+A function is a reusable block of code defined with the def keyword. Functions can take parameters and return values. Loops such as for and while repeat a block of code, and an if statement runs code only when a condition is true.
+
+Databases and SQL
+
+A database is an organised collection of data. A relational database stores data in tables made of rows and columns. A primary key uniquely identifies each row in a table. A foreign key is a column that refers to the primary key of another table and links the two tables together.
+
+SQL stands for Structured Query Language. The SELECT statement reads data, INSERT adds new rows, UPDATE changes existing rows and DELETE removes rows. The WHERE clause filters rows, and JOIN combines rows from two or more tables. Normalization is the process of organising tables to reduce repeated data.
+
+Operating Systems
+
+An operating system manages the hardware and software resources of a computer. Its main jobs are process management, memory management, file management and device management. A process is a program that is running. A thread is a smaller unit of execution inside a process.
+
+CPU scheduling decides which process gets the CPU next. Common scheduling algorithms are First Come First Served, Shortest Job First and Round Robin. In Round Robin, each process gets a fixed time slice called a time quantum. A deadlock happens when processes wait for each other forever and none of them can continue.
+
+Algorithms and Data Structures
+
+An algorithm is a step by step method for solving a problem. Big O notation describes how the running time of an algorithm grows as the input becomes larger. Linear search checks items one by one and takes O(n) time. Binary search works on sorted data by repeatedly halving the search range and takes O(log n) time.
+
+A stack follows the Last In First Out rule, and a queue follows the First In First Out rule. A linked list stores items in nodes that point to the next node. A binary tree is a structure in which every node has at most two children.

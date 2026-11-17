@@ -1,0 +1,15 @@
+Calculus
+
+A derivative measures how quickly a function changes. The derivative of x squared is 2x, and the derivative of a constant is 0. The power rule says that the derivative of x to the power n is n times x to the power n minus 1. Differentiation is the process of finding a derivative.
+
+A limit describes the value that a function approaches as the input gets closer to a certain number. Integration is the reverse of differentiation and is used to find areas under curves. The integral of x is x squared divided by 2 plus a constant C.
+
+The product rule is used when two functions are multiplied together, and the chain rule is used when one function is inside another function.
+
+Statistics and Probability
+
+The mean is the average of a set of numbers. It is found by adding all values and dividing by how many values there are. The median is the middle value when the numbers are sorted. The mode is the value that appears most often.
+
+Variance measures how far the values are spread from the mean. To calculate it, subtract the mean from each value, square the differences, and then find the average of those squares. Standard deviation is the square root of the variance.
+
+Probability measures how likely an event is to happen and is always between 0 and 1. Probability is found by dividing the number of favourable outcomes by the total number of possible outcomes. For example, the probability of getting a head when tossing a fair coin is 1 divided by 2.
